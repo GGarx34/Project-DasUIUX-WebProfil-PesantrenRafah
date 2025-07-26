@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Website resmi <strong>Pondok Pesantren Rafah</strong> berbasis <strong>Content Management System (CMS)</strong> yang dibangun untuk mengelola konten, program, dan data internal pesantren secara dinamis, modern, dan efisien.
+  Website unofficial <strong>Pondok Pesantren Rafah</strong> berbasis <strong>Content Management System (CMS)</strong> yang dibangun untuk mengelola konten, program, dan data internal pesantren secara dinamis, modern, dan efisien.
 </p>
 
 <p align="center">
