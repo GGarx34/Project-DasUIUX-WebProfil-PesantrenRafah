@@ -77,7 +77,7 @@ Terima kasih telah mempertimbangkan untuk berkontribusi pada proyek ini! Kami sa
 
 ### 🧑‍💻 Developer
 
--   [**@Prayata27**](https://github.com/Prayata27)
+-   [**@rafaprayata06**](https://github.com/rafaprayata06)
 -   [**@GGarx34**](https://github.com/GGarx34)
 
 ### 🛠️ Status Proyek
