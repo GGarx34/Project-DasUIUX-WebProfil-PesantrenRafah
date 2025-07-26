@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GGarx34/Project-DasUIUX-WebProfil-PesantrenRafah/main/public/assets/logotext.webp" alt="Logo Pesantren Rafah" width="450" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/GGarx34/Project-DasUIUX-WebProfil-PesantrenRafah/main/public/assets/logotext.webp" alt="Logo Pesantren Rafah" width="350" style="border-radius: 8px;">
 </p>
+
 <h1 align="center">
   Pondok Pesantren Rafah - Website CMS
 </h1>
@@ -47,8 +48,8 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
-    cd nama-repo
+    git clone https://github.com/GGarx34/Project-DasUIUX-WebProfil-PesantrenRafah.git
+    cd Project-DasUIUX-WebProfil-PesantrenRafah
     ```
 2.  **Install dependensi:**
     ```bash
@@ -57,7 +58,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
     ```
 3.  **Salin file `.env`:**
     ```bash
-    cp .env.example .env
+    cp [example].env .env
     ```
 4.  **Generate application key:**
     ```bash
@@ -74,8 +75,5 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 ## 🤝 Kontribusi
 
-Terima kasih telah mempertimbangkan untuk berkontribusi pada proyek ini! Kami sangat terbuka untuk kolaborasi. Silakan baca [panduan kontribusi](CONTRIBUTING.md) untuk detail lebih lanjut.
+Terima kasih telah mempertimbangkan untuk berkontribusi pada proyek ini! Kami sangat terbuka untuk kolaborasi.
 
-## 📜 Lisensi
-
-Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
