@@ -1,6 +1,92 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v12.0.7...12.x)
+## [Unreleased](https://github.com/laravel/laravel/compare/v1.0...main)
+
+## [v1.0](https://github.com/laravel/laravel/compare/v12.0.7...v1.0) - 2025-07-26
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/GGarx34/Project-DasUIUX-WebProfil-PesantrenRafah/main/public/assets/logotext.webp" alt="Logo Pesantren Rafah" width="350" style="border-radius: 8px;">
+</p>
+<h1 align="center">
+Pondok Pesantren Rafah - Rilis Perdana
+</h1>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 12"></a>
+<a href="#"><img src="https://img.shields.io/badge/Livewire-v3-4d52c1?style=for-the-badge&logo=livewire" alt="Livewire"></a>
+<a href="#"><img src="https://img.shields.io/badge/TailwindCSS-v3-06B6D4?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"></a>
+</p>
+🧾 Ringkasan
+Ini adalah rilis perdana aplikasi website unofficial Pondok Pesantren Rafah, sebuah platform manajemen internal berbasis web yang dibangun dengan Laravel, Livewire, dan TailwindCSS. Aplikasi ini dirancang untuk mempermudah pengelolaan data santri, program pendidikan, pendaftaran online, dan statistik kegiatan di lingkungan pesantren.
+Rilis ini mencakup source code lengkap serta file siap deploy ke hosting (public_html), beserta database .sql dan file konfigurasi contoh (.env.example).
+🎯 Fitur Utama
+
+    🔐 Sistem Login: Dilengkapi dashboard admin yang komprehensif.
+    
+    📊 Statistik Siswa & Program: Meliputi Tahfidz, Ekstrakurikuler, dan Kurikulum Mu’adalah.
+    
+    📁 Manajemen Data Kurikulum: Mengelola Kurikulum Syar’i, Studi Kauni, dan Bahasa.
+    
+    📝 Pendaftaran Online: Formulir pendaftaran santri baru dengan dropdown wilayah dinamis.
+    
+    🎨 UI Modern & Responsif: Dibuat dengan TailwindCSS dan dipercantik dengan animasi AOS.
+    
+    📦 Siap Upload: Termasuk file public_html yang siap diunggah ke shared hosting.
+    
+⚙️ Teknologi yang Digunakan
+
+    Laravel 12
+    
+    Livewire 3
+    
+    TailwindCSS 3
+    
+    AOS (Animate On Scroll)
+    
+    MySQL/MariaDB
+    
+    Composer & NPM
+    
+🗂️ Isi File
+
+Berikut file yang disertakan dalam rilis ini:
+
+    pesantren-rafah.rar – Source code lengkap + folder public_html.
+    
+    pesantren_rafah.sql – File database hasil ekspor (.sql).
+    
+    .env.example – Contoh konfigurasi environment.
+    
+    ⚠️ Catatan Penting:
+    Jangan lupa untuk membuat file .env berdasarkan .env.example dan generate APP_KEY menggunakan php artisan key:generate. Jika tidak ingin membuat dari awal, Anda juga bisa menggunakan file [example].env, jangan lupa hapus ([example]).
+    
+🚀 Cara Menggunakan
+
+    Ekstrak file pesantren-rafah.zip ke direktori proyek lokal Anda.
+    
+    Impor database dari pesantren_rafah.sql ke MySQL Anda.
+    
+    Rename file [example].env menjadi .env dan sesuaikan konfigurasi database.
+    
+    Jalankan perintah berikut di terminal Anda:
+    
+    composer install
+    npm install && npm run build
+    php artisan key:generate
+    php artisan migrate --seed
+    
+    Jalankan server pengembangan:
+    
+    php artisan serve
+    
+🧑‍💻 Developer
+
+    @Prayata27
+    
+    @GGarx34
+    
+🛠️ Status Proyek
+
+Proyek ini masih terus dikembangkan dan terbuka untuk perbaikan atau penambahan fitur. Silakan buka tab Issues untuk melaporkan bug atau memberikan saran.
 
 ## [v12.0.7](https://github.com/laravel/laravel/compare/v12.0.6...v12.0.7) - 2025-04-15
 
