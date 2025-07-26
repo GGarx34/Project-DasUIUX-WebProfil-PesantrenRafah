@@ -14,7 +14,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 12"></a>
   <a href="#"><img src="https://img.shields.io/badge/Livewire-v3-4d52c1?style=for-the-badge&logo=livewire" alt="Livewire"></a>
   <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-v3-06B6D4?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
 </p>
 
 ---
