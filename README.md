@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GGarx34/Project-DasUIUX-WebProfil-PesantrenRafah/main/public/assets/logotext.webp" alt="Logo Pesantren Rafah" width="450" style="border-radius: 8px;">
+</p>
 <h1 align="center">
   Pondok Pesantren Rafah - Website CMS
 </h1>
